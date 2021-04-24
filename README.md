@@ -14,3 +14,20 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Things you will find here:
+
+⛅ Azure
+🚗 Automation
+🐚 PowerShell
+💪 ARM Templates
+⚡ Azure Functions
+🚀 Azure DevOps
+
+📝 My blog
+
+https://wmatthyssen.com
+
+Reach me on Twitter
+
+🐦@wmatthyssen
