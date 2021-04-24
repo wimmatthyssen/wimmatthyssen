@@ -1,21 +1,22 @@
-### Hi there, I'm Wim Matthyssen 👋
+## Hi there, I'm Wim Matthyssen 👋
 
 
-Things you will find here:
+#### <u>💻 Things you will find here:</u>
 
-☁️ Azure
-📟 PowerShell
-💪 ARM Templates
-⚡ Azure Functions
-🚀 Azure DevOps
-🤖 All things Automation
+* ☁️ Azure
+* 📟 PowerShell
+* 💪 ARM Templates
+* ⚡ Azure Functions
+* 🚀 Azure DevOps
+* 🤖 All things Automation
 
 
-📝 My blog
+#### <u>📝 My blog</u>
 
 https://wmatthyssen.com
 
-🐦 My Twitter account
 
-@wmatthyssen
+#### <u>🐦 My Twitter account</u>
+
+<a href="https://twitter.com/wmatthyssen" target="_blank">@wmatthyssen</a>
 
