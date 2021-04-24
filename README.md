@@ -1,7 +1,7 @@
 ## Hi there, I'm Wim Matthyssen 👋
 
 
-#### <u>💻 Things you will find here:</u>
+#### 💻 Things you will find here:
 
 * ☁️ Azure
 * 📟 PowerShell
@@ -11,12 +11,12 @@
 * 🤖 All things Automation
 
 
-#### <u>📝 My blog</u>
+#### 📝 My blog
 
 https://wmatthyssen.com
 
 
-#### <u>🐦 My Twitter account</u>
+#### 🐦 My Twitter account
 
 <a href="https://twitter.com/wmatthyssen" target="_blank">@wmatthyssen</a>
 
