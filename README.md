@@ -1,7 +1,7 @@
 ## Hi there, I'm Wim Matthyssen 👋
 
 
-#### 💻 Things you will find here:
+#### 💻 Things you will find here
 
 * ☁️ Azure
 * 📟 PowerShell
