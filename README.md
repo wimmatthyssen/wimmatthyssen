@@ -17,12 +17,13 @@ Here are some ideas to get you started:
 
 Things you will find here:
 
-⛅ Azure
-🚗 Automation
-🐚 PowerShell
+☁️ Azure
+📟 PowerShell
 💪 ARM Templates
 ⚡ Azure Functions
 🚀 Azure DevOps
+🤖 All things Automation
+
 
 📝 My blog
 
@@ -38,3 +39,10 @@ my blog
 
 my Twitter account
 🚀 @kareldewinter
+
+
+ Azure
+
+💪 ARM Templates
+⚡ Azure Functions
+🚀 Azure DevOps
