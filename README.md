@@ -31,3 +31,10 @@ https://wmatthyssen.com
 Reach me on Twitter
 
 🐦@wmatthyssen
+
+📫 How to reach me
+my blog
+📖 https://kareldewinter.com/
+
+my Twitter account
+🚀 @kareldewinter
