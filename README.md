@@ -5,7 +5,7 @@
 
 * ☁️ Azure
 * 📟 PowerShell
-* 💪 ARM Templates
+* 💪 Bicep
 * ⚡ Azure Functions
 * 🚀 Azure DevOps
 * 🤖 All things Automation
@@ -16,7 +16,7 @@
 https://wmatthyssen.com
 
 
-#### 🐦 My Twitter account
+#### 🐦 My X account
 
 <a href="https://twitter.com/wmatthyssen" target="_blank">@wmatthyssen</a>
 
